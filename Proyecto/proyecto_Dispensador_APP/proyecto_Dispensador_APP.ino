@@ -21,13 +21,13 @@ Adafruit_SH1106G display = Adafruit_SH1106G(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, 
 
 FirebaseData firebaseData; //Creacion de la funcion de la base de datos
 
-#define WLAN_SSID       "FAMILIA VILLOTA"
-#define WLAN_PASS       "sandra1234"
+#define WLAN_SSID       "USU"
+#define WLAN_PASS       "CC"
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883   
 
-#define AIO_USERNAME  "Sebas_Villota"
-#define AIO_KEY       "aio_idfk99J7zuaWyXVkq4EEIuvYcTuo"
+#define AIO_USERNAME  "jajajaja"
+#define AIO_KEY       "jijiji"
 
 int output=2;
 String formattedDate;
